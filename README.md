@@ -1,4 +1,4 @@
-# taging with Laravel 9
+# Taging with Laravel 9
 
 ### install Laravel
 
